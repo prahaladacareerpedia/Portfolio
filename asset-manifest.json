@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.900803cc.js",
+    "static/media/Passphotogragh.JPG": "/Portfolio/static/media/Passphotogragh.aed8dc1a1d6e6a4487b1.JPG",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.900803cc.js.map": "/Portfolio/static/js/main.900803cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.900803cc.js"
+  ]
+}
